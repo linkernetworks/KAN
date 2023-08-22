@@ -4,7 +4,7 @@ This installer, ```kan-installer.sh```, provides one-liner experience for a new 
 
 ```bash
 kan_version=0.41.44             # KAN API Helm Chart version
-agent_version=0.41.44           # KAN Agent version
+agent_version=0.45.1           # KAN Agent version
 kanportal_version=0.41.46-amd64 # KAN Portal version
 kanai_version=0.41.46           # KAN AI container version
 ```

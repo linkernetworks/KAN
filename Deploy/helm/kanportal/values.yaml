@@ -22,5 +22,5 @@ servicePrincipal:
   clientId: ""
   clientSecret: ""
 kanAgentImage: ""
-kanAgentVersion: "0.41.44"
+kanAgentVersion: "0.45.1"
 kanaiVersion: "0.41.47"
